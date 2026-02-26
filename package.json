@@ -1,6 +1,7 @@
 {
   "name": "iptv-sources",
   "version": "1.6.6",
+  "packageManager": "yarn@1.22.19",
   "main": "index.js",
   "repository": "git@github.com:HerbertHe/iptv-sources.git",
   "author": "HerbertHe <Herbert.He0229@gmail.com>",
